@@ -1,5 +1,6 @@
 # OmniAuth LINE
 
+Straight fork from [cadenza-tech](https://github.com/cadenza-tech/omniauth-line-v2_1) just renamed to have a bit more idiomatic naming
 LINE strategy for OmniAuth.
 
 - [Installation](#installation)
