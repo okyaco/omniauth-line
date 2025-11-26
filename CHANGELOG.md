@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.3.0] - 2025-11-26
+
+- Other: Rename from OmniAuth LINE V2 to OmniAuth LINE
+
 ## [1.2.0] - 2025-11-03
 
 - Refactor: Remove redundant user info endpoint call
